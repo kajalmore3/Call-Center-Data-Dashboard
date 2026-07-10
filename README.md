@@ -80,6 +80,10 @@ The dataset contains call center operational data, including:
 ## 📷 Dashboard Preview
 
 <img width="1089" height="721" alt="Call Center Dashboard Screenshot 2" src="https://github.com/user-attachments/assets/5479babc-e340-4315-879f-1a544909c315" />
+
+
+
+
 <img width="1171" height="737" alt="Call Center Dashboard Screenshot" src="https://github.com/user-attachments/assets/95c16f5f-1b6f-4c6a-8097-ce08d1316f66" />
 
 
